@@ -9,9 +9,7 @@ public class Ma {
         matirialNail.putInHole();
 
         Nail nail2 = new EmergencySuperProNail();
-//        nail2.putInHole();
-//        nail2 = new MatirialNail();
-//        nail2.putInHole();
+
 
         String nailName = "";
 
